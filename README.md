@@ -1,4 +1,4 @@
-# Linear Regression From Scratch (Using NumPy)
+# Linear Regression From Scratch (Using NumPy and matplotlib)
 
 ## Project Overview
 
